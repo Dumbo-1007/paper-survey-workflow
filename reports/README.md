@@ -17,6 +17,7 @@ reports/
 
 约定：
 
+- `document.tex` 必须保持 `latex/document.tex` 的 8 个 `\section` 标题不变。
 - `阅读报告.pdf` 与 `论文原文.pdf` 的名字不要改，脚本按这两个名字取文件
   （想改就用 `--pdf-original` / `--pdf-report` 传新模板）。
 - PDF 不进 Git（`.gitignore` 已忽略，体积大且多含版权内容）；
