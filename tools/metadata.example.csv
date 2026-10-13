@@ -1,0 +1,6 @@
+﻿批次,序号,短标题,研究内容,论文题目,期刊会议,年份,文献类型,分区,影响因子,报告时间,种类,挑战,技术
+3,1,SAM免训练证据提示-EviPrompt,医学图像分割,EviPrompt: A Training-Free Evidential Prompt Generation Method for Adapting Segment Anything Model in Medical Images,IEEE Transactions on Image Processing,2024,期刊,1区,15.3,,医学图像分割,通用基础模型与上下文学习;不确定性建模,提示学习与上下文学习;不确定性建模
+5,1,多模板时空加权多超图脑疾病分析,多模态脑疾病诊断,Deep Fusion of Multi-Template Using Spatio-Temporal Weighted Multi Hypergraph Convolutional Networks for Brain Disease Analysis,IEEE Transactions on Medical Imaging,2024,期刊,1区,12.4,,疾病诊断与分型,多模态融合;高阶关系建模;时序与动态建模,图神经网络与超图建模;时空动态建模
+9,2,多模态多任务混合专家-M4oE,多模态医学诊断,"Dynamic modeling of patients, modalities and tasks via multi modal multi-task mixture of experts",International Conference on Learning Representations (ICLR),2025,会议,CCF A,,,多任务与基础模型,多模态融合;多任务协同,混合专家MoE
+13,1,稠密Transformer基础模型MoE-脑影像多任务,脑影像分析,Denseformer-moe: A dense transformer foundation model with mixture of experts for multi-task brain image analysis,IEEE Transactions on Medical Imaging,2025,期刊,1区,12.4,,多任务与基础模型,多任务协同;通用基础模型与上下文学习,混合专家MoE;自监督与预训练
+15,2,多视图依赖图学习-GIIM,多视图诊断,GIIM: Graph-based Learning of Inter-and Intra-view Dependencies for Multi-view Medical Image Diagnosis,AAAI Conference on Artificial Intelligence,2026,会议,CCF A,,,疾病诊断与分型,缺失模态与缺失视图;高阶关系建模,图神经网络与超图建模

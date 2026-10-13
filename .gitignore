@@ -1,0 +1,30 @@
+# LaTeX 编译产物
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# 报告与原文 PDF（体积大且多含版权内容，不进仓库）
+reports/**/*.pdf
+!reports/**/.gitkeep
+
+# Obsidian / 编辑器
+.obsidian/workspace*.json
+.obsidian/cache/
+.trash/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# 归档脚本产物（本地生成，按需决定是否提交）
+_build*/
